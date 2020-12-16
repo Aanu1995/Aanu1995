@@ -4,7 +4,7 @@ I am a software developer who is well adapted to current technological tools use
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... becoming proficient in all mobile applications frameworks ranging from Native (Android and IOS) to cross-platforms (Flutter)
+- 🔭 I’m currently working on ... becoming proficient in all mobile frameworks {Native: Android and IOS, Cross-Platforms: Flutter}
 - 🌱 I’m currently learning ... Deep Learning using Pytorch
 - 👯 I’m looking to collaborate on ... any Flutter projects
 - 💬 Ask me about ... Flutter
