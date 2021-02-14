@@ -1,10 +1,12 @@
 ### Hi, I am Aanu 👋
 
-I am a software developer who is well adapted to current technological tools used in building mobile applications. I enjoy building cross platform applications using Flutter framework and also love build native IOS apps using Xcode. In addition, I also enjoy training models using Pytorch and also do little backend work using Node.js.
+I am a software developer who loves building mobile applications that provide solutions to real world problems. The recent applications developed connects pet owners to real vets and also help manage your pet's health by keeping track of your pet's routine. I am currently improving my IOS skills by taking a nanodegree course on Udacity and as well as developing a B2B ecommerce applications that gives the retailers opportuinity to customize app and deploy to store immediately for their user.
 
 
-- 🔭 I’m currently working on ... becoming proficient in all mobile frameworks {Native: Android and IOS, Cross-Platforms: Flutter}
-- 🌱 I’m currently learning ... Deep Learning using Pytorch
-- 👯 I’m looking to collaborate on ... any Flutter projects
-- 💬 Ask me about ... Flutter
+- 🔭 I’m currently working on ... Ecommerce Application
+- 🌱 I’m currently learning ... Swift for IOS Application
+- 👯 I’m looking to collaborate on ... any Flutter or IOS projects
+
+### Skills
+Flutter, Swift, Dart, Python, Java, NodeJs
 
