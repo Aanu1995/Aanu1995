@@ -7,6 +7,3 @@ I am a software developer who loves building mobile applications that provide so
 - 🌱 I’m currently learning ... Swift for IOS Application
 - 👯 I’m looking to collaborate on ... any Flutter or IOS projects
 
-### Skills
-Flutter, Swift, Dart, Python, Java, NodeJs
-
