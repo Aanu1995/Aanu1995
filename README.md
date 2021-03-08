@@ -7,5 +7,5 @@ I am a software developer who loves building mobile applications that provide so
 - 🌱 I’m currently learning ... Swift for IOS Application
 - 👯 I’m looking to collaborate on ... any Flutter or IOS projects
 
-You can also check my profile on [Freelancer.com](https://www.freelancer.com/u/olakunleaanu) in case you have a project for me
+You can also hire me on [Freelancer.com](https://www.freelancer.com/u/olakunleaanu) to work with your team or build your product.
 
