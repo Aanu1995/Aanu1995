@@ -1,10 +1,10 @@
 ### Hi, I am Aanu 👋
 
-I am a software developer who loves building mobile applications that provide solutions to real world problems. The recent applications developed connects pet owners to real vets and also help manage your pet's health by keeping track of your pet's routine. I am currently improving my IOS skills by taking a nanodegree course on Udacity and as well as developing a B2B ecommerce applications that gives the retailers opportuinity to customize app and deploy to store immediately for their user.
+I am a Mobile application developer passionate about building cross platform applications using Flutter and native IOS applications using UIKit and Swift.
 
 
-- 🔭 I’m currently working on ... Tracker mobile Application
-- 🌱 I’m currently learning ... Swift for IOS Application
+- 🔭 I’m currently working on ... Food Expiry Tracker pplication
+- 🌱 I’m currently learning ... C++ for Robotics
 - 👯 I’m looking to collaborate on ... any Flutter or IOS projects
 
 You can also hire me on [Freelancer.com](https://www.freelancer.com/u/olakunleaanu) to work with your team or build your product.
