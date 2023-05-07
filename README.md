@@ -20,4 +20,4 @@ I am a Senior Flutter and Serverless Engineer with deep technical expertise in:
 - Third-party libraries and APIs integration
 - App deployment to Google And Apple Store
 - AWS Services like Cognito, API Gateway, Lambda Function, Event Bridge, DynamoDB
-- Golang and Nodjs
+- Golang and Nodejs
