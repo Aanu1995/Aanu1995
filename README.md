@@ -1,6 +1,6 @@
-# Hi there! 👋 I am Aanu Olakunle, a Senior Flutter Engineer.
+# Hi there! 👋 I am Aanu Olakunle, a Software Engineer.
 
-I am a Mobile Engineer with over 4 years of professional experience building mobile apps for both Android and iOS platforms. I love building products that make life comfortable for people or has the potential to solve problems in this world and beyond. 
+I am a Software Engineer with over 5 years of professional experience building mobile apps for both Android and iOS platforms. I love building products that make life comfortable for people or has the potential to solve problems in this world and beyond. 
 
 I would love to combine my passion for learning and exploring different technological tools with my current software development skills to continue to build products that makes life comfortable for people.
 
