@@ -1,4 +1,4 @@
-# Hi there! 👋 I am Aanu Olakunle, a Software Developer and Aspiring Robotics Engineer.
+# Hi there! 👋 I a Software developer and Aspiring Robotics engineer.
 
 ## 👨‍💻 My technical expertise as a Software developer are:
 
@@ -12,10 +12,7 @@
 - AWS Services like Cognito, API Gateway, Lambda Function, Event Bridge, DynamoDB.
 
 
-
-
-As an Aspiring Robotics Engineer, I still have a lot to learn. Some of my projects in offline (Robot Studio) and Online using ABB Robots
-
+<br><br>As an Aspiring Robotics Engineer, I still have a lot to learn. Some of my projects in offline (Robot Studio) and Online using ABB Robots
 
 Offline implementation using Robot Studio
 
@@ -28,5 +25,7 @@ Online implementation using ABB Robot
 https://github.com/user-attachments/assets/c7b6d698-a8df-46c8-bb77-d3399e37bd5e
 
 
+<br>
 You can access some of the RSPAG files in my Google Doc
+
 https://drive.google.com/drive/folders/1uaPE-W0VvZP8__HEFHLEEmtr_-i3q0rY?usp=drive_link
