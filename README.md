@@ -9,7 +9,7 @@ I’m a passionate engineer and lifelong learner with a solid foundation in soft
 ### 🧠 Interests
 - Autonomous Systems & Self-Driving Cars
 - Computer Vision & Deep Learning
-- Robotics Software (ROS, TwinCAT, etc.)
+- Robotics Software
 - System Simulation & State Estimation
 - Web & Mobile App Development (React, Flutter)
 
