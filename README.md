@@ -1,6 +1,6 @@
 # Hi, I’m Aanu
 
-I’m a passionate engineer and lifelong learner with a solid foundation in software development, robotics, and automation systems. My work spans across Perception, sensor fusion, and computer vision and mobile & web applications
+I’m a passionate engineer and lifelong learner with a solid foundation in software development, robotics, and automation systems. My work spans across Perception, and Deep Learning and mobile & web applications
 
 🔧 I enjoy solving real-world problems through code — from real-time control systems to intelligent sensor fusion applications.
 
